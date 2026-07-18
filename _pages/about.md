@@ -7,13 +7,20 @@ redirect_from:
   - /about.html
 ---
 
-Ph.D. Candidate | Computational Geomechanics | Software/System Engineering | AI
+System/Software Engineering | AI
 ======
 About Me
 ------
-Hi, here is Yuxuan Luo, a Ph.D. candidate at Kyoto University with research interests in granular mechanics, computational geomechanics, and landslide dynamics. My current work combines laboratory experiments, DEM simulations, and data analysis to better understand the mechanisms governing granular flows and size segregation.
-Alongside my research, I have a strong interest in software engineering, cloud technologies, and artificial intelligence. I enjoy transforming ideas into practical applications and continuously learning modern development technologies such as Next.js, React, TypeScript, Python, and AWS.
-This website serves as a place to document my research, open-source projects, technical notes, and personal learning journey. I believe that combining scientific research with software engineering can help solve real-world problems and create tools that benefit a broader community.
+Hi, here is Yuxuan Luo, a Ph.D. candidate at Kyoto University with research interests in granular mechanics, computational geomechanics, and landslide dynamics. 
+
+My current work combines laboratory experiments, DEM simulations, and data analysis to better understand the mechanisms governing granular flows and size segregation.
+Alongside my research, I have a strong interest in software engineering, cloud technologies, and artificial intelligence. 
+
+I enjoy transforming ideas into practical applications and continuously learning modern development technologies such as Next.js, React, TypeScript, Python, and AWS.
+This website serves as a place to document my research, open-source projects, technical notes, and personal learning journey. 
+
+I believe that combining scientific research with software engineering can help solve real-world problems and create tools that benefit a broader community.
+
 Outside of work, I enjoy teaching, exploring new technologies, practicing kendo, and learning through hands-on projects.
 Thank you for stopping by.
 
