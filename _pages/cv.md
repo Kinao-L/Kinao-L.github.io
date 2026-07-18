@@ -11,35 +11,33 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Geophysics, Kyoto University, Japan, 2027 (expected)
+* M.S. in Geotechnical Engineering, Zhejiang University, P.R.China, 2023
+* B.S. in Civil Engineering, Central South University, P.R.China, 2020
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Fall 2023: Research Assistant
+  * Zhejiang University
+  * Duties included: Experiment & simulation assistant
+  * Supervisor: Professor Yu Zhao
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2024: Research Assistant
+  * Kyoto University
+  * Duties included: Experiment & simulation assistant
+  * Supervisor: Professor Gonghui Wang
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* CAE (Computer Aided Engineering）
+* Programming Language
+  * Python
+  * Matlab
+  * Java
+* Language
+  * Chinese (Mother Language)
+  * English (TOEFL:108 Business Level)
+  * Japanese (JLPT:N1 Business Level)
 
 Publications
 ======
@@ -53,12 +51,16 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+Grants and awards
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 2025 第64回（2025年度）日本地すべり学会 研究発表会 若手優秀発表賞
+* 2025 京都大学防災研究所研究発表講演会 優秀発表賞
+* 2024 Support for Pioneering Research Initiated by the Next Generation (SPRING)
+* 2021 Outstanding Student of Zhejiang University
+* 2021 Annual First-class scholarship of Zhejiang University
+* 2020 Outstanding Graduates of Central South University
+* 2019 National Scholarship
+* 2019 Annual First-class scholarship of Central South University
+* 2018 Annual First-class scholarship of Central South University
+* 2018 National Encouragement Scholarship
+* 2017 Annual First-class scholarship of Central South University
