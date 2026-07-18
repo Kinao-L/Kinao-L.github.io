@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Steve's Homepage"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,6 +9,7 @@ redirect_from:
 
 System/Software Engineering | AI
 ======
+
 About Me
 ------
 Hi, here is Yuxuan Luo, a Ph.D. candidate at Kyoto University with research interests in granular mechanics, computational geomechanics, and landslide dynamics. 
