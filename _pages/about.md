@@ -26,4 +26,5 @@ Thank you for stopping by.
 
 Contact Me
 ------
-You can contact me through the email.
+You can contact me through the email below.
+[ukenlmy2534@gmail.com]
