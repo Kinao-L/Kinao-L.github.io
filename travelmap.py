@@ -15,10 +15,10 @@ from geopy.exc import GeocoderTimedOut
 TIMEOUT = 5
 
 # Collect the Markdown files
-g = glob.glob("_talks/*.md")
+g = glob.glob("_travels/*.md")
 
 # Prepare to geolocate
-geocoder = Nominatim(user_agent="academicpages.github.io")
+geocoder = Nominatim(user_agent="Kinao-L.github.io")
 location_dict = {}
 location = ""
 permalink = ""
@@ -53,4 +53,4 @@ for file in g:
 
 # Save the map
 m = getorg.orgmap.create_map_obj()
-getorg.orgmap.output_html_cluster_map(location_dict, folder_name="talkmap", hashed_usernames=False)
+getorg.orgmap.output_html_cluster_map(location_dict, folder_name="travelmap", hashed_usernames=False)
