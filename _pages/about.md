@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-System/Software Engineering | AI
+System | Software | AI Engineer
 ======
 
 About Me
@@ -27,5 +27,4 @@ Thank you for stopping by.
 
 Contact Me
 ------
-You can contact me through the email below.
-[ukenlmy2534@gmail.com]
+You can contact me through the email on the left.
