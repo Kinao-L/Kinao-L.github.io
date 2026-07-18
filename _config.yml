@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Yuxuan LUO"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Japan"
   employer         : "Kyoto University"
   uri              : "https://Kinao-L.github.io"
-  email            : "none@example.org" 
+  email            : "ukenlmy2534@gmail.com" 
 
   # Academic websites
   academia         : # URL
