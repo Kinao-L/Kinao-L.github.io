@@ -8,7 +8,7 @@ date: 2026-4-26
 location: "Sydney, Australia"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This is a description of a travelling experience. You can use markdown like any other post.
 
 Heading 1
 ======
