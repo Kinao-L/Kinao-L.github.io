@@ -1,1 +1,16 @@
+---
+layout: archive
+title: "Travels"
+permalink: /travels/
+author_profile: true
+---
 
+{% if site.travelmap_link == true %}
+
+<p style="text-decoration:underline;"><a href="/travelmap.html">See a map of all the places I've given a travel!</a></p>
+
+{% endif %}
+
+{% for post in site.travel reversed %}
+  {% include archive-single-travel.html %}
+{% endfor %}
