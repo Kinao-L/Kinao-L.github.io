@@ -4,7 +4,7 @@ collection: travels
 type: "Aboard Travel"
 permalink: /travels/2025-summer-travel-3
 venue: "Travel in Kyushu"
-date: 2025-8
+date: 2025-8-15
 location:
   - Kumamoto, Japan
   - Aso, Japan

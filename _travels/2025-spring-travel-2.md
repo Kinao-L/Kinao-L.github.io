@@ -4,7 +4,7 @@ collection: travels
 type: "Aboard Travel"
 permalink: /travels/2025-spring-travel-2
 venue: "Travel in Iga"
-date: 2025-4
+date: 2025-4-30
 location:
   - Iga, Japan
   - Osaka, Japan
