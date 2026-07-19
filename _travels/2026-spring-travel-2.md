@@ -1,5 +1,5 @@
 ---
-title: "2026 Travel 2"
+title: "2026 Travel 2 - Travel in New Zealand"
 collection: travels
 type: "Aboard Travel"
 permalink: /travels/2026-spring-travel-2

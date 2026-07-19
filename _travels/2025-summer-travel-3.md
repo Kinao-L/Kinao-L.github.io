@@ -1,5 +1,5 @@
 ---
-title: "2025 Travel 3"
+title: "2025 Travel 3 - Travel in Kyushu"
 collection: travels
 type: "Aboard Travel"
 permalink: /travels/2025-summer-travel-3

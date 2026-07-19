@@ -1,5 +1,5 @@
 ---
-title: "2025 Travel 1"
+title: "2025 Travel 2 - Travel in Iga"
 collection: travels
 type: "Aboard Travel"
 permalink: /travels/2025-spring-travel-2
