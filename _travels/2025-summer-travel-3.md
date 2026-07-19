@@ -1,13 +1,15 @@
 ---
-title: "2026 Travel 1"
+title: "2025 Travel 3"
 collection: travels
 type: "Aboard Travel"
-permalink: /travels/2026-spring-travel-1
-venue: "Travel in Australia"
-date: 2026-4-26
+permalink: /travels/2025-summer-travel-3
+venue: "Travel in Kyushu"
+date: 2025-8
 location:
-  - Sydney, Australia
-  - Gold Coast, Australia
+  - Kumamoto, Japan
+  - Aso, Japan
+  - Kagoshima, Japan
+  - Yakushima,Japan
 ---
 
 This is a description of a travelling experience. You can use markdown like any other post.

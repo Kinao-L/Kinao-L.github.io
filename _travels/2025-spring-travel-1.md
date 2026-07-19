@@ -1,13 +1,15 @@
 ---
-title: "2026 Travel 1"
+title: "2025 Travel 1"
 collection: travels
 type: "Aboard Travel"
-permalink: /travels/2026-spring-travel-1
-venue: "Travel in Australia"
-date: 2026-4-26
+permalink: /travels/2025-spring-travel-1
+venue: "Travel in Taiwan"
+date: 2025-1-1
 location:
-  - Sydney, Australia
-  - Gold Coast, Australia
+  - Taipei, Taiwan
+  - Kaohsiung, Taiwan
+  - Taichung, Taiwan
+  - Hualien,Taiwan
 ---
 
 This is a description of a travelling experience. You can use markdown like any other post.

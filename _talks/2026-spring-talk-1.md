@@ -1,11 +1,11 @@
 ---
-title: "Tutorial 1 on Relevant Topic in Your Field"
+title: "Poster Report:"
 collection: talks
-type: "Tutorial"
-permalink: /talks/2013-03-01-tutorial-1
-venue: "UC-Berkeley Institute for Testing Science"
-date: 2013-03-01
-location: "Berkeley, CA, USA"
+type: "Poster Report"
+permalink: /talks/2026-spring-talk-1
+venue: "LaRGE 2026"
+date: 2026-4-30
+location: "Queenstown, New Zealand"
 ---
 
 [More information here](http://exampleurl.com)

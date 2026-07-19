@@ -1,13 +1,13 @@
 ---
-title: "2026 Travel 1"
+title: "2025 Travel 1"
 collection: travels
 type: "Aboard Travel"
-permalink: /travels/2026-spring-travel-1
-venue: "Travel in Australia"
-date: 2026-4-26
+permalink: /travels/2025-spring-travel-2
+venue: "Travel in Iga"
+date: 2025-4
 location:
-  - Sydney, Australia
-  - Gold Coast, Australia
+  - Iga, Japan
+  - Osaka, Japan
 ---
 
 This is a description of a travelling experience. You can use markdown like any other post.
