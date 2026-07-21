@@ -9,24 +9,22 @@
 
 main:
 
-  - title: "CV"
-    url: /cv/
-
-  - title: "Talks"
-    url: /talks/    
+  - title: "Blog Posts"
+    url: /year-archive/   
 
   - title: "Travels"
     url: /travels/    
     
   # - title: "Portfolio"
   #   url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-
+  - title: "Reports"
+    url: /talks/ 
+    
   - title: "Publications"
     url: /publications/  
-    
+
+  - title: "CV"
+    url: /cv/
   # - title: "CV"
   #   url: /cv-json/
     
