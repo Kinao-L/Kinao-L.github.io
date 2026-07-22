@@ -20,12 +20,12 @@ var addressPoints = [
     121.6197276
   ],
   [
-    "<a href=\"/travels/2025-spring-travel-2\">2025 Travel 2</a><br />Travel in Iga<br />Iga, Japan",
+    "<a href=\"/travels/2025-spring-travel-2\">2025 Travel 2 - Travel in Iga</a><br />Travel in Iga<br />Iga, Japan",
     34.7497761,
     136.1423355
   ],
   [
-    "<a href=\"/travels/2025-spring-travel-2\">2025 Travel 2</a><br />Travel in Iga<br />Osaka, Japan",
+    "<a href=\"/travels/2025-spring-travel-2\">2025 Travel 2 - Travel in Iga</a><br />Travel in Iga<br />Osaka, Japan",
     34.6937569,
     135.5014539
   ],
@@ -66,8 +66,8 @@ var addressPoints = [
   ],
   [
     "<a href=\"/travels/2026-spring-travel-2\">2026 Travel 2 - Travel in New Zealand</a><br />Travel in New Zealand<br />Arrow town, New Zealand",
-    -45.0267683,
-    168.6490417
+    -45.0264746,
+    168.6481486
   ],
   [
     "<a href=\"/travels/2026-spring-travel-2\">2026 Travel 2 - Travel in New Zealand</a><br />Travel in New Zealand<br />Christchurch, New Zealand",
@@ -93,5 +93,10 @@ var addressPoints = [
     "<a href=\"/travels/2026-spring-travel-2\">2026 Travel 2 - Travel in New Zealand</a><br />Travel in New Zealand<br />Auckland, New Zealand",
     -36.852095,
     174.7631803
+  ],
+  [
+    "<a href=\"/travels/2026-summer-travel-1\">2026 Travel 3 - Surfing in Iseshima (\u4f0a\u52e2\u5fd7\u6469)</a><br />Surfing in Iseshima<br />Shima, Japan",
+    34.3411841,
+    136.8196451
   ]
 ];
