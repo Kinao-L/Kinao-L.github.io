@@ -11,11 +11,11 @@ location:
 
 Surfing in Iseshima (伊勢志摩)
 ======
+和小李一起去伊势志摩冲浪啦。
 <br/><img src='/images/travels/2026/surfing in iseshima.jpg'>
 
 World cup final watch（サーファン前夜）
 ======
 在去冲浪之前正赶上世界杯决赛，和研究室的师弟们一起去Karaok熬夜观赛。导致第二天下午冲不动浪了=。=
-------
 <br/><img src='/images/travels/2026/world cup final.jpg'>
 
